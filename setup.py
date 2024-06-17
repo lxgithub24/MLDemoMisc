@@ -35,6 +35,6 @@ setup(
     ],
     install_requires=[
         'nltk==3.4.5',
-        'scikit-learn==0.20.2',
+        'scikit-learn==1.5.0',
     ]
 )
